@@ -1,0 +1,49 @@
+# knowledge base -*- mode: org; coding: utf-8; -*-
+
+# ------------------------------------------------------------------------------------------------------------
+
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+STARTUP: latexpreview
+#+OPTIONS: toc:t tex:t num:t
+#+keywords: cs math
+#+category: Script
+
+# ------------------------------------------------------------------------------------------------------------
+
+#+TITLE: Knowledge Base
+#+SUBTITLE: computer science bachelor
+#+AUTHOR: [[https://gitlab.informatik.uni-bremen.de/fdrees][Felix Drees]]
+
+# ------------------------------------------------------------------------------------------------------------
+
+#+begin_quote
+The Documentation (either in its HTML format or in its Org-Mode format) is licensed under the [[https://www.gnu.org/licenses/fdl-1.3.txt][GNU Free Documentation License version 1.3]] or later.
+The code examples are licensed under the [[https://www.gnu.org/licenses/gpl-3.0.txt][GNU General Public License v3]] or later.
+#+end_quote
+
++ GitHub Page: todo ...
++ GitHub Repo: [[https://github.com/felixbd/knowledge-base]]
+
+
+* [[./ma/index.html][Mathematik]]
+  + Mathematik 1: Logik, Kombinatorik und Lineare Algebra
+  + Mathematik 2: Analysis
+  + Mathematik 3: Stochastik und Statistik
+
+
+* [[./pi][Praktische Informatik]]
+  + Praktische Informatik 1: Imperative Programmierung und Objektorientierung
+  + Praktische Informatik 2: Algorithmen und Datenstrukturen
+  + Praktische Informatik 3: Funktionale Programmierung
+
+
+* [[./tech][Technische Informatik]]
+  + Technische Informatik 1: Rechnerarchitektur und digitale Schaltungen
+  + Technische Informatik 2: Betriebssysteme und Nebenläufigkeit
+
+
+* [[./theo][Theoretische Informatik]]
+  + Theoretische Informatik 1
+    - Algorithmentheorie
+    - Automaten und formale Sprachen
+  + Theoretische Informatik 2: Berechenbarkeitsmodelle und Komplexität
